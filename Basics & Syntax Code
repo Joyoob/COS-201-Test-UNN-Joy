@@ -1,9 +1,8 @@
-1. Write a Java program to print "Hello, World!".
+
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 
 }
-When run, this program will output:
-Hello, World!
+
