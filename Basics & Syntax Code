@@ -5,3 +5,5 @@ public class HelloWorld {
     }
 
 }
+When run, this program will output:
+Hello, World!
